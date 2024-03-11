@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alberto-profile-website/static/css/main.7fc4ee8f.css",
+    "main.js": "/alberto-profile-website/static/js/main.8eb24cea.js",
+    "static/js/453.cbb312f3.chunk.js": "/alberto-profile-website/static/js/453.cbb312f3.chunk.js",
+    "index.html": "/alberto-profile-website/index.html",
+    "main.7fc4ee8f.css.map": "/alberto-profile-website/static/css/main.7fc4ee8f.css.map",
+    "main.8eb24cea.js.map": "/alberto-profile-website/static/js/main.8eb24cea.js.map",
+    "453.cbb312f3.chunk.js.map": "/alberto-profile-website/static/js/453.cbb312f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc4ee8f.css",
+    "static/js/main.8eb24cea.js"
+  ]
+}
